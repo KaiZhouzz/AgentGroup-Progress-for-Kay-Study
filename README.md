@@ -1,4 +1,4 @@
-# 长租公寓运营 Agent 平台
+# 业务运营 Agent 平台
 
 基于 LangChain + LangGraph 编排的运营助手，统一对话入口覆盖多类场景：
 
